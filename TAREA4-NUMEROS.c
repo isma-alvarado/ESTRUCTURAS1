@@ -10,7 +10,7 @@ void numeros2(int num1, int num2, int auxiliar2);
 void numeros3(int num1,int num2,int auxilar2);
 void numeros4(int num1,int num2,int auxiliar2);
 void numeros5(int num1,int num2,int auxiliar2);
-void numeros(int num1,int num2,int auxiliar2);
+void numeros6(int num1,int num2,int auxiliar2);
 
 
 int main()
